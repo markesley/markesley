@@ -3,7 +3,7 @@ Hey Dev! I'm Markesley Ramos
 
 - 💻 I’m currently finishing my Bachelor's degree in Computer Science  
 - 🔭 Full-Stack Developer at the Public Prosecutor's Office of Piauí  
-- 🚀 Experienced in Angular, Java, Spring Boot, PostgreSQL, MongoDB, and Kafka  
+- 🚀 Experienced in Python, Angular, Java, Spring Boot, PostgreSQL, MongoDB, and Kafka  
 - 🏋️‍♂️ Gym enthusiast  
 
 #
