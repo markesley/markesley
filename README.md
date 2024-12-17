@@ -7,11 +7,11 @@ Hey Dev! I'm Markesley Ramos
 - 🏋️‍♂️ Gym enthusiast  
 
 #
-<a href="https://github.com/carlosEduardo-hub">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/markesley">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markesley&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/carlosEduardo-hub">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://github.com/markesley">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markesley&layout=compact&langs_count=7&theme=radical"/>
 </a>
   
 #
