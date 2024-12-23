@@ -60,5 +60,4 @@ Hey Dev! I'm Markesley Ramos
   </details>  
  </div>  
 </div>  
-
-![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg)  
+  
