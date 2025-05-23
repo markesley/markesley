@@ -10,7 +10,7 @@ Hey Dev! I'm Markesley Ramos
 
 ---
 
-### ✨ Minhas Especialidades
+### ✨ My Specialties
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; padding: 20px; border: 1px solid #30363d; border-radius: 8px;">
   <div style="text-align: center;">
@@ -61,7 +61,7 @@ Hey Dev! I'm Markesley Ramos
 
 ### 🧠 Learning
 <div style="display: inline_block"><br>
-  <img align="center" alt="Markesley-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  Actively learning **Artificial Intelligence**, applying concepts in scientific research projects and continuously updating my knowledge in the field.
 </div>
 
 ---
@@ -71,7 +71,12 @@ Hey Dev! I'm Markesley Ramos
     <details>
       <summary>🎖️ Certifications</summary>
       <ul>
-</ul>
+        <li>**Projetos em React, React Native e NodeJS** — Sujeito Programador</li>
+        <li>**Domine LLMs com LangChain** — Udemy</li>
+        <li>**Arquitetura de Microserviços: Padrão Saga Orquestrado Microservices com Kafka** — Udemy</li>
+        <li>**AWS Academy Graduate** — AWS Academy Cloud Foundations</li>
+        <li>**Curso Completo de Git e GitHub** — UFPI</li>
+      </ul>
     </details>
   </div>
 </div>
