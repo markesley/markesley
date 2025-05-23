@@ -66,17 +66,11 @@ Hey Dev! I'm Markesley Ramos
 
 ---
 
-<div align="center">
-  <div align="left">
-    <details>
-      <summary>🎖️ Certifications</summary>
-      <ul>
-        <li>**Projetos em React, React Native e NodeJS** — Sujeito Programador</li>
-        <li>**Domine LLMs com LangChain** — Udemy</li>
-        <li>**Arquitetura de Microserviços: Padrão Saga Orquestrado Microservices com Kafka** — Udemy</li>
-        <li>**AWS Academy Graduate** — AWS Academy Cloud Foundations</li>
-        <li>**Curso Completo de Git e GitHub** — UFPI</li>
-      </ul>
-    </details>
-  </div>
-</div>
+### 🎖️ Certifications
+<ul>
+  <li>**Projetos em React, React Native e NodeJS** — Sujeito Programador</li>
+  <li>**Domine LLMs com LangChain** — Udemy</li>
+  <li>**Arquitetura de Microserviços: Padrão Saga Orquestrado Microservices com Kafka** — Udemy</li>
+  <li>**AWS Academy Graduate** — AWS Academy Cloud Foundations</li>
+  <li>**Curso Completo de Git e GitHub** — UFPI</li>
+</ul>
